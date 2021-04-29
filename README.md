@@ -1,4 +1,4 @@
-# Single Region – Single AZ VPC 
+# Single Region – Single AZ Terraform Script
 
 This Terraform Script will create the below resources in the US-East-1 Region (Virginia):
 
