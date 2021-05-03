@@ -1,6 +1,6 @@
 module "singleregion-singleaz-module" {
   source     = "WEEMR/singleregion-singleaz-module/aws"
-  version    = "0.0.1"
+  version    = "0.0.3"
   access_key      = " < Access Key > "                         #  IAM Account Access Key
   secret_key      = " < Secret Key > "                         #  IAM Account Secret Key
   username        = " < Name > "                               #  Your 1st Initial, Last Name to tag resources
